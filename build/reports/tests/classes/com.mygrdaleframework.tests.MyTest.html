@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - Class com.mygrdaleframework.tests.MyTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>Class com.mygrdaleframework.tests.MyTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/com.mygrdaleframework.tests.html">com.mygrdaleframework.tests</a> &gt; MyTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">6</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">6</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.013s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox failures" id="successRate">
+<div class="percent">0%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Failed tests</a>
+</li>
+<li>
+<a href="#tab1">Tests</a>
+</li>
+<li>
+<a href="#tab2">Standard output</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Failed tests</h2>
+<div class="test">
+<a name="aTest"></a>
+<h3 class="failures">aTest</h3>
+<span class="code">
+<pre>java.lang.AssertionError: *You are required to specify	ENVIORNMENT in which this app runs
+	at com.acc.test.rap.RAP.log_assert(RAP.java:103)
+	at com.acc.test.rap.RAP.setup_env(RAP.java:151)
+	at com.acc.test.rap.RAP.setup(RAP.java:325)
+	at com.acc.test.rap.RAP.init(RAP.java:125)
+	at com.acc.test.rap.RAP.&lt;init&gt;(RAP.java:55)
+	at com.mygrdaleframework.tests.MyTest.&lt;init&gt;(MyTest.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.runTestClass(JUnitTestClassExecuter.java:114)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.execute(JUnitTestClassExecuter.java:57)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessor.processTestClass(JUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:377)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:54)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre>
+</span>
+</div>
+<div class="test">
+<a name="bTest"></a>
+<h3 class="failures">bTest</h3>
+<span class="code">
+<pre>java.lang.AssertionError: *You are required to specify	ENVIORNMENT in which this app runs
+	at com.acc.test.rap.RAP.log_assert(RAP.java:103)
+	at com.acc.test.rap.RAP.setup_env(RAP.java:151)
+	at com.acc.test.rap.RAP.setup(RAP.java:325)
+	at com.acc.test.rap.RAP.init(RAP.java:125)
+	at com.acc.test.rap.RAP.&lt;init&gt;(RAP.java:55)
+	at com.mygrdaleframework.tests.MyTest.&lt;init&gt;(MyTest.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.runTestClass(JUnitTestClassExecuter.java:114)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.execute(JUnitTestClassExecuter.java:57)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessor.processTestClass(JUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:377)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:54)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre>
+</span>
+</div>
+<div class="test">
+<a name="cTest"></a>
+<h3 class="failures">cTest</h3>
+<span class="code">
+<pre>java.lang.AssertionError: *You are required to specify	ENVIORNMENT in which this app runs
+	at com.acc.test.rap.RAP.log_assert(RAP.java:103)
+	at com.acc.test.rap.RAP.setup_env(RAP.java:151)
+	at com.acc.test.rap.RAP.setup(RAP.java:325)
+	at com.acc.test.rap.RAP.init(RAP.java:125)
+	at com.acc.test.rap.RAP.&lt;init&gt;(RAP.java:55)
+	at com.mygrdaleframework.tests.MyTest.&lt;init&gt;(MyTest.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.runTestClass(JUnitTestClassExecuter.java:114)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.execute(JUnitTestClassExecuter.java:57)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessor.processTestClass(JUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:377)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:54)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre>
+</span>
+</div>
+<div class="test">
+<a name="dTest"></a>
+<h3 class="failures">dTest</h3>
+<span class="code">
+<pre>java.lang.AssertionError: *You are required to specify	ENVIORNMENT in which this app runs
+	at com.acc.test.rap.RAP.log_assert(RAP.java:103)
+	at com.acc.test.rap.RAP.setup_env(RAP.java:151)
+	at com.acc.test.rap.RAP.setup(RAP.java:325)
+	at com.acc.test.rap.RAP.init(RAP.java:125)
+	at com.acc.test.rap.RAP.&lt;init&gt;(RAP.java:55)
+	at com.mygrdaleframework.tests.MyTest.&lt;init&gt;(MyTest.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.runTestClass(JUnitTestClassExecuter.java:114)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.execute(JUnitTestClassExecuter.java:57)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessor.processTestClass(JUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:377)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:54)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre>
+</span>
+</div>
+<div class="test">
+<a name="eTest"></a>
+<h3 class="failures">eTest</h3>
+<span class="code">
+<pre>java.lang.AssertionError: *You are required to specify	ENVIORNMENT in which this app runs
+	at com.acc.test.rap.RAP.log_assert(RAP.java:103)
+	at com.acc.test.rap.RAP.setup_env(RAP.java:151)
+	at com.acc.test.rap.RAP.setup(RAP.java:325)
+	at com.acc.test.rap.RAP.init(RAP.java:125)
+	at com.acc.test.rap.RAP.&lt;init&gt;(RAP.java:55)
+	at com.mygrdaleframework.tests.MyTest.&lt;init&gt;(MyTest.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.runTestClass(JUnitTestClassExecuter.java:114)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.execute(JUnitTestClassExecuter.java:57)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessor.processTestClass(JUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:377)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:54)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre>
+</span>
+</div>
+<div class="test">
+<a name="fTest"></a>
+<h3 class="failures">fTest</h3>
+<span class="code">
+<pre>java.lang.AssertionError: *You are required to specify	ENVIORNMENT in which this app runs
+	at com.acc.test.rap.RAP.log_assert(RAP.java:103)
+	at com.acc.test.rap.RAP.setup_env(RAP.java:151)
+	at com.acc.test.rap.RAP.setup(RAP.java:325)
+	at com.acc.test.rap.RAP.init(RAP.java:125)
+	at com.acc.test.rap.RAP.&lt;init&gt;(RAP.java:55)
+	at com.mygrdaleframework.tests.MyTest.&lt;init&gt;(MyTest.java:16)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.runTestClass(JUnitTestClassExecuter.java:114)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecuter.execute(JUnitTestClassExecuter.java:57)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassProcessor.processTestClass(JUnitTestClassProcessor.java:66)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:377)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:54)
+	at org.gradle.internal.concurrent.StoppableExecutorImpl$1.run(StoppableExecutorImpl.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+</pre>
+</span>
+</div>
+</div>
+<div id="tab1" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="failures">aTest</td>
+<td>0.003s</td>
+<td class="failures">failed</td>
+</tr>
+<tr>
+<td class="failures">bTest</td>
+<td>0.001s</td>
+<td class="failures">failed</td>
+</tr>
+<tr>
+<td class="failures">cTest</td>
+<td>0.007s</td>
+<td class="failures">failed</td>
+</tr>
+<tr>
+<td class="failures">dTest</td>
+<td>0.001s</td>
+<td class="failures">failed</td>
+</tr>
+<tr>
+<td class="failures">eTest</td>
+<td>0s</td>
+<td class="failures">failed</td>
+</tr>
+<tr>
+<td class="failures">fTest</td>
+<td>0.001s</td>
+<td class="failures">failed</td>
+</tr>
+</table>
+</div>
+<div id="tab2" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>1 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+1 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+69 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+69 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+69 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+69 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+77 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+77 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+77 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+77 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+77 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+77 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+78 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+78 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+78 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+78 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+79 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+79 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+79 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+79 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+84 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+84 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+84 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+87 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+87 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+87 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+88 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+88 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+88 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+88 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+88 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+88 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+88 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+88 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+88 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+95 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+95 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+95 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+95 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+95 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+95 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+95 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+95 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+95 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+97 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+97 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+97 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+97 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+97 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+97 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+99 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+99 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+99 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+99 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+117 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+117 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+117 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+117 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+118 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+118 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+118 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+118 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+121 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+121 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+121 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+121 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+122 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+122 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+122 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+122 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+124 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+124 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+124 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+124 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+126 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+126 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+126 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+126 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+128 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+128 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+128 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+128 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+129 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+129 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+129 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+129 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+130 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+130 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+130 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+130 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+140 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+140 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+140 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+140 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+140 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+146 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+146 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+146 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+146 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+146 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+148 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+148 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+148 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+148 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+148 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+150 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+150 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+150 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+150 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+150 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+150 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+150 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+150 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+150 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+150 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+151 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+151 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+151 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+151 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+151 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+152 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+152 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+152 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+152 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+152 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+153 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+153 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+153 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+153 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+153 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+154 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+154 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+154 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+154 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+154 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+154 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+154 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+154 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+154 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+154 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+156 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+156 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+156 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+156 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+156 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+156 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+163 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+163 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+163 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+163 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+163 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+163 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+164 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+164 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+164 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+164 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+164 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+164 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+166 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+166 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+166 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+166 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+166 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+166 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+167 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+167 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+167 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+167 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+167 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+167 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+168 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+168 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+168 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+168 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+168 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+168 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+171 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+171 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+171 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+171 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+171 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+171 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+172 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+172 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+172 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+172 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+172 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+172 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+173 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+173 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+173 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+173 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+173 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+173 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+173 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+173 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+173 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+173 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+173 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+173 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+175 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+175 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+175 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+175 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+175 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+175 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+175 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; Preconfigure logging ; /cfg/rap/log4j.properties ...
+180 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+180 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+180 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+180 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+180 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+180 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+180 [Test worker] INFO com.acc.test.rap.RAP  - Oct 12, 2017 10:19:23 PM
+181 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+181 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+181 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+181 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+181 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+181 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+181 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt; init .....
+182 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+182 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+182 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+182 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+182 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+182 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+182 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Parsing arguments ...
+183 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+183 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+183 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+183 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+183 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+183 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+183 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Parse arguments
+184 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+184 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+184 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+184 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+184 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+184 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+184 [Test worker] DEBUG com.acc.test.rap.ArgParser  - Extract arguments
+185 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+185 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+185 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+185 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+185 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+185 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+185 [Test worker] DEBUG com.acc.test.rap.RAP  - args are grabbed from environment
+186 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+186 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+186 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+186 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+186 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+186 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+186 [Test worker] DEBUG com.acc.test.rap.RAP  - &gt;Setup ......
+187 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+187 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+187 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+187 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+187 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+187 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+187 [Test worker] DEBUG com.acc.test.rap.RAP  - mergorder[env, app]
+189 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+189 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+189 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+189 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+189 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+189 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+189 [Test worker] ERROR com.acc.test.rap.RAP  - *You are required to specify	ENVIORNMENT in which this app runs
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 2.14.1</a> at Oct 12, 2017 10:19:23 PM</p>
+</div>
+</div>
+</body>
+</html>

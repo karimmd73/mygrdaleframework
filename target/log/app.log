@@ -1,0 +1,1072 @@
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 11, 2017 7:47:51 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 11, 2017 7:47:51 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 11, 2017 8:02:32 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 11, 2017 8:02:32 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 7:39:08 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 7:39:08 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 8:55:34 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 8:55:34 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 8:56:05 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 8:56:05 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:07:30 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:07:30 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:07:30 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:07:31 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:07:31 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:34:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:34:40 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:34:40 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:34:40 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:34:40 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:34:40 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:36:15 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:41:06 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:21: http://newtours.demoaut.com
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 9:54:39 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:21: http://newtours.demoaut.com
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:111: > Preconfigure logging ; /cfg/rap/log4j.properties ...
+RAP:116: Oct 12, 2017 10:18:00 PM
+RAP:117: > init .....
+RAP:120: >Parsing arguments ...
+ArgParser:43: Parse arguments
+ArgParser:48: Extract arguments
+RAP:123: args are grabbed from environment
+RAP:324: >Setup ......
+RAP:142: mergorder[env, app]
+RAP:153:  Selected enviornment: local
+RAP:162:    working  root dir: /Users/karimuddinmohammed/myautomationws/mygrdaleframework
+RAP:296: > Merging :/cfg/rap/default.cfg
+RAP:296: > Merging :/cfg/env/local/env.cfg
+RAP:296: > Merging :/cfg/app/app.cfg
+RAP:312:  > no meta configs selected.
+RAP:267:  > Will try to reconfigure with : /cfg/env/local/log4j.properties
+RAP:277: * No log4j configuration specified !!!
+RAP:277: * No log4j configuration specified !!!
+RAP:21: http://newtours.demoaut.com
