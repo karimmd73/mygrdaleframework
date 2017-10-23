@@ -1,9 +1,7 @@
 package com.mygrdaleframework.tests;
 import org.junit.Test;
 
-import com.acc.test.rap.RAP;
 
-//import com.acc.test.rap.RAP;
 
 import static org.junit.Assert.*;
 
@@ -13,12 +11,12 @@ import static org.junit.Assert.*;
  *
  * @author karimuddinmohammed, @date 10/7/17 12:44 PM
  */
-public class MyTest extends RAP 
+public class MyTest 
 {
 	
 	@Test
 	public void aTest   () {
-	 log.debug(cfg.gets("application_url"));
+	 
 		assertTrue("karim".contains("karim"));
 	}
 
