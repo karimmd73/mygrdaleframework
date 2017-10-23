@@ -21,6 +21,7 @@ public class LibraryTest
 	@Test
 	public void aTest   () {
 		for(int a=0; a< 10; a++)
+			System.out.println("Done");
 		assertTrue("karim".contains("karim"));
 	}
 
