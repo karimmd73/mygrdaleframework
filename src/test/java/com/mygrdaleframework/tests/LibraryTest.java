@@ -20,7 +20,7 @@ public class LibraryTest
 	
 	@Test
 	public void aTest   () {
-	
+		for(int a=0; a< 10; a++)
 		assertTrue("karim".contains("karim"));
 	}
 
